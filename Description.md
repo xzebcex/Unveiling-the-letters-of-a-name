@@ -1,5 +1,5 @@
 
-#Description.
+# Description.
 
 This code is a simple program that prompts the user to enter their name and then iterates through each letter in the name, printing out each letter individually. 
 The program uses the input() function to ask the user to enter their name and assigns the input to the variable "name". 
