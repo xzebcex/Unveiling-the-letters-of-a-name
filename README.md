@@ -20,7 +20,7 @@ This program is a simple script and does not require any contributions.
 This program is open-sourced and free to use for any purpose.
 
 ## Author
-This program is created by me (?).
+This program is created by xzebcex.
 
 ## Conclusion
 This program is a simple script that prompts the user to enter their name and then iterates through each letter in the name, printing out each letter individually. It can be used as a basic template for programs that require user input and looping for string manipulation.
